@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋!</h2>
+<h2 align="left">Hello world👋!</h2>
 <h4> I'm Harshit Raj, a third-year Computer Science Engineering student at IIIT Delhi. Enthusiastic about technology, I'm navigating the challenges of my academic journey with a passion for innovation. Eager to contribute and make a mark in the ever-evolving world of computer science. </h4>
 
 ###
