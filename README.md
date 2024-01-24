@@ -41,8 +41,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" alt="figma logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="60" alt="canva logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" height="60" alt="Miro logo">
 </div>
 
 <br clear="both">
