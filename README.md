@@ -16,6 +16,8 @@
 
 ## Toolbox
 <div align="left">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="60" alt="Visual Studio Code logo">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
@@ -35,6 +37,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="60" alt="canva logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" height="60" alt="Miro logo">
 </div>
 
 <br clear="both">
