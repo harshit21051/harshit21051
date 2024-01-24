@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Harshit Raj and I'm a CSE student in 3rd year, from IIIT Delhi</h2>
+<h2 align="left">Hello 👋!
+  I'm Harshit Raj, a third-year Computer Science Engineering student at IIIT Delhi. Enthusiastic about technology, I'm navigating the challenges of my academic journey with a passion for innovation. Eager to contribute and make a mark in the ever-evolving world of computer science.
+</h2>
 
 ###
 
@@ -30,8 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
