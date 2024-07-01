@@ -16,8 +16,7 @@
 
 ## Connect with me
 <div align="left">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="60" alt="Visual Studio Code logo">
-  <img width="12" />
+  <a href="https://www.linkedin.com/in/harshit-raj-19670b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="30" width="40" /></a>
 
 ###
 
