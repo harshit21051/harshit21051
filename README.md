@@ -5,19 +5,16 @@
   <img alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
-###
-
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=harshit21051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit21051&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit21051&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
-###
+### 🌱 What I'm Up To
 
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-
-###
+- 🔍 Currently working on a project related to Augmented and Virtual Reality.
+- 📚 Learning full-stack development.
 
 ### 📫 Connect with Me
 
@@ -69,15 +66,10 @@
 
 <br clear="both">
 
-###
-
 <!-- <h3 align="left">🔥My Stats :</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harshit21051&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> -->
-
-###
-
 
 <!--
 **harshit21051/harshit21051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
