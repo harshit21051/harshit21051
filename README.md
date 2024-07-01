@@ -45,18 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" alt="figma logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="60" alt="canva logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" height="60" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="60" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="60" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://python-turtle.org/turtle.png" height="60" alt="python turtle logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/lucidchart/lucidchart-icon.svg" height="60" alt="lucid logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/LOGO_SPARKQL.jpg" height="60" alt="sparql logo" />
+  
 </div>
 
 <br clear="both">
