@@ -14,6 +14,13 @@
 
 ###
 
+## Connect with me
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="60" alt="Visual Studio Code logo">
+  <img width="12" />
+
+###
+
 ## Toolbox
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="60" alt="Visual Studio Code logo">
