@@ -18,7 +18,7 @@
 ### 📫 Connect with Me
 
 - 🌐 [Personal Website](https://harshit21051.github.io/Portfolio/)
-- ✉️ Email: harshit21051@iiitd.ac.in, rajharshit0751@gmail.com (Personal)
+- ✉️ Email: harshit21051@iiitd.ac.in, rajharshit0751@gmail.com (personal)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-raj-19670b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="30" width="40" /></a>
