@@ -65,6 +65,8 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="60" alt="figma logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="60" alt="canva logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
   
 </div>
 
