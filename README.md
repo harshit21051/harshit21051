@@ -11,6 +11,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit21051&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
+<br clear="both">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit21051&label=Profile%20views&color=0e75b6&style=flat" alt="harshit21051" /> </p>
 
 ### 🌱 What I'm Up To
