@@ -3,7 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit21051&label=Profile%20views&color=0e75b6&style=flat" alt="harshit21051" /> </p>
 
 <p align="justify">As a final-year Computer Science Engineering student at IIIT Delhi, I am enthusiastic about technology and constantly navigating the challenges of my academic journey with a passion for innovation. My insatiable curiosity drives me to continually expand my knowledge and expertise, always eager to learn new things and stay abreast of the latest advancements in the field. I am dedicated to contributing meaningfully and making a significant impact in the ever-evolving world of computer science, leveraging my skills and insights to drive forward-thinking solutions.</p>
-<p align="center"><img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+
+<p align="center">
+  <img alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=harshit21051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
