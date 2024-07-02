@@ -1,4 +1,7 @@
 <h2 align="center"><img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> Hello world! 👋 This is Harshit Raj <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"></h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit21051&label=Profile%20views&color=0e75b6&style=flat" alt="harshit21051" /> </p>
+
 <p>As a final-year Computer Science Engineering student at IIIT Delhi, I am enthusiastic about technology and constantly navigating the challenges of my academic journey with a passion for innovation. My insatiable curiosity drives me to continually expand my knowledge and expertise, always eager to learn new things and stay abreast of the latest advancements in the field. I am dedicated to contributing meaningfully and making a significant impact in the ever-evolving world of computer science, leveraging my skills and insights to drive forward-thinking solutions.</p>
 
 <p align="center">
@@ -12,8 +15,6 @@
 </div>
 
 <br clear="both">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit21051&label=Profile%20views&color=0e75b6&style=flat" alt="harshit21051" /> </p>
 
 ### 🌱 What I'm Up To
 
