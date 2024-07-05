@@ -11,7 +11,7 @@
 - 🔍 Currently working on a project related to Augmented and Virtual Reality.
 - 📚 Learning full-stack development.
 
-<br clear="both">
+<br>
 
 ### 📫 Connect with Me
 
