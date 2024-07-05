@@ -11,6 +11,8 @@
 - 🔍 Currently working on a project related to Augmented and Virtual Reality.
 - 📚 Learning full-stack development.
 
+<br clear="both">
+
 ### 📫 Connect with Me
 
 - 🌐 [Personal Website](https://harshit21051.github.io/Portfolio/)
