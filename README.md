@@ -18,18 +18,18 @@
 - 🌐 [Personal Website](https://harshit21051.github.io/Portfolio/)
 - ✉️ Email: harshit21051@iiitd.ac.in, rajharshit0751@gmail.com (personal)
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=harshit21051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit21051&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit21051&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-raj-19670b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/its_khr_iiitd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_khr_iiitd" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/Harshit_2021051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Harshit_2021051" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/harshit3pcz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshit3pcz" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=harshit21051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit21051&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit21051&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+</div>
 
 <br clear="both">
 
