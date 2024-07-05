@@ -8,7 +8,7 @@
 
 ### 🌱 What I'm Up To
 
-- 🔍 Currently working on a project related to Augmented and Virtual Reality.
+- 🔍 Currently working on a project related to Augmented Reality.
 - 📚 Learning full-stack development.
 
 ### 📫 Connect with Me
