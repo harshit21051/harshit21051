@@ -6,8 +6,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br clear="both">
-
 ### 🌱 What I'm Up To
 
 - 🔍 Currently working on a project related to Augmented and Virtual Reality.
