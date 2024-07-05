@@ -25,12 +25,6 @@
   <a href="https://www.geeksforgeeks.org/user/harshit3pcz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshit3pcz" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=harshit21051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit21051&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit21051&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
 <br clear="both">
 
 ## Toolbox
@@ -72,6 +66,14 @@
 </div>
 
 <br clear="both">
+
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=harshit21051&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit21051&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshit21051&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+</div>
+
 
 <!-- <h3 align="left">🔥My Stats :</h3>
 <div align="center">
