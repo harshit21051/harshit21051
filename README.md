@@ -4,7 +4,7 @@
 
 <p align="justify">As a final-year Computer Science Engineering student at IIIT Delhi, I am enthusiastic about technology and constantly navigating the challenges of my academic journey with a passion for innovation. My insatiable curiosity drives me to continually expand my knowledge and expertise, always eager to learn new things and stay abreast of the latest advancements in the field. I am dedicated to contributing meaningfully and making a significant impact in the ever-evolving world of computer science, leveraging my skills and insights to drive forward-thinking solutions.</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br clear="both">
 
