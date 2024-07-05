@@ -24,8 +24,6 @@
   <a href="https://www.geeksforgeeks.org/user/harshit3pcz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshit3pcz" height="30" width="40" /></a>
 </p>
 
-<br>
-
 ## Toolbox
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="30" alt="Visual Studio Code logo">
