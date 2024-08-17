@@ -48,6 +48,12 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="34" alt="PHP logo">
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="reactjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="csharp logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" height="34" alt="unity logo" />
@@ -59,15 +65,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="34" alt="pandas logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" height="34" alt="pandas logo" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="reactjs logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="34" alt="express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo" />
   
 </div>
 
