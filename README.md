@@ -14,9 +14,9 @@
 
 ### 📫 Connect with Me
 
-- Email:
--   harshitraj.y2k25@gmail.com (official)
--   rajharshit0751@gmail.com (personal)
+- Email
+    - harshitraj.y2k25@gmail.com (official)
+    - rajharshit0751@gmail.com (personal)
 - Phone: +91-7763801202
 
   
