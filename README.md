@@ -72,7 +72,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Power_BI_Logo.svg/1024px-Power_BI_Logo.svg.png" height="34" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Power_BI_Logo.svg" height="34" alt="Power BI logo" />
   
 </div>
 
