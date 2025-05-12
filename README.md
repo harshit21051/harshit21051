@@ -1,4 +1,4 @@
-<h2 align="center"><img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> Hello world! 👋 This is Harshit Raj <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"> <img width="30" src="https://camo.githubusercontent.com/4a8a9217b10a29670742dea1115675da77eb76092e7be504630a4a91b364f501/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966"></h2>
+<h2 align="center">Hello world! 👋 This is Harshit Raj</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit21051&label=Profile%20views&color=0e75b6&style=flat" alt="harshit21051" /> </p>
 
@@ -8,14 +8,14 @@
 
 ### 🌱 What I'm Up To
 
-- 🔍 Currently working on a project related to Augmented Reality.
-- 📚 Learning full-stack development.
+- 🔍 Completed hands-on projects in Virtual Reality and Full-Stack Web Development, applying both frontend and backend technologies.
+- 📚 Currently focused on strengthening my foundation in Machine Learning, including supervised models and data preprocessing techniques.
 
 
 ### 📫 Connect with Me
 
-- 🌐 [Personal Website](https://harshit21051.github.io/Portfolio/)
-- ✉️ Email: harshit21051@iiitd.ac.in, rajharshit0751@gmail.com (personal)
+- ✉️ Email: harshitraj.y2k25@gmail.com, rajharshit0751@gmail.com (personal)
+- 📱 Phone: +91-7763801202
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-raj-19670b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="34" width="40" /></a>
