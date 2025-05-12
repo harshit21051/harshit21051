@@ -8,14 +8,16 @@
 
 ### 🌱 What I'm Up To
 
-- 🔍 Completed hands-on projects in Virtual Reality and Full-Stack Web Development, applying both frontend and backend technologies.
-- 📚 Currently focused on strengthening my foundation in Machine Learning, including supervised models and data preprocessing techniques.
+- Completed hands-on projects in Virtual Reality and Full-Stack Web Development, applying both frontend and backend technologies.
+- Currently focused on strengthening my foundation in Machine Learning, including supervised models and data preprocessing techniques.
 
 
 ### 📫 Connect with Me
 
-- ✉️ Email: harshitraj.y2k25@gmail.com, rajharshit0751@gmail.com (personal)
-- 📱 Phone: +91-7763801202
+- Email:
+-   harshitraj.y2k25@gmail.com (official)
+-   rajharshit0751@gmail.com (personal)
+- Phone: +91-7763801202
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-raj-19670b251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-raj-19670b251" height="34" width="40" /></a>
@@ -65,6 +67,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="34" alt="pandas logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" height="34" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Colab_logo_2021.svg/1024px-Google_Colab_logo_2021.svg.png" height="34" alt="Google Colab logo" />
   
 </div>
 
